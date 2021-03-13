@@ -1,0 +1,35 @@
+
+body {
+    background-color:darkgray;
+    font-size:large;
+    padding: 15px;
+    margin:30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
+    text-align: left;
+    font-size: large;
+}
+
+p {
+    font-size: 24px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    left: 50%;
+    right:50%;
+}
+
+footer {
+    text-align: center;
+    margin: 30px;
+
+}
+
